@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.registtable{
+	color:white;
+	background-image: url("../img/heart.gif");
+	align-content:right;
+	text-align:center;
+	font-family:华文琥珀;
+	width: 290px;
+	height: 500px;
+	/* background-size: cover;
+	background-repeat: no-repeat; */
+	position:absloult;
+	bottom:0px;
+}
+
+.registbimg{
+	background-image: url("../img/bigwhite.gif");
+	height:700px;
+}
+
+.title{
+	background-color:#c0c0c0;
+	font-family:中华行楷;
+	font-size:40px;
+}
+
+.fairy{
+	width: 50px;
+	height: 50px;
+}
+
+.bot{
+	color: white;
+	bottom: 0px;
+	position: absolute;
+	
+}

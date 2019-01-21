@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.do tr td:hover{
+	color:white;
+}
+
+
+.bot{
+	color: white;
+	bottom: 0px;
+	position: absolute;
+	
+}
+
+.fairy{
+	width: 50px;
+	height: 50px;
+}
+
+.title{
+	background-color:#c0c0c0;
+	font-family:中华行楷;
+	font-size:40px;
+}
+
+
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+modifybimg{
+	background-image: url("../img/thanks.gif");
+	height: 700px;
+}

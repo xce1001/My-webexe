@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.logintable{
+	wdith:200px;
+	height:280px;
+	color:white;
+	background-image:url("../img/heart.gif");
+	/* position:absolute;
+	bottom:100px; */
+}
+
+.fairy{
+	width: 50px;
+	height: 50px;
+}
+
+.loginbimg{
+	background-image: url("../img/yy.gif");
+	height:700px;
+}
+
+.title{
+	background-color:#c0c0c0;
+	font-family:中华行楷;
+	font-size:40px;
+}
+
+
+.bot{
+	color: white;
+	bottom: 0px;
+	position: absolute;
+	
+}

@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* 共用 */
+.fairy{
+		width: 50px;
+		height: 50px;
+	}
+.title{
+		background-color:#c0c0c0;
+		font-family:中华行楷;
+		font-size:40px;
+	}
+.bot{
+	color: white;
+	bottom: 0px;
+	position: absolute;
+}
+
+body{
+	background-size: cover;
+	/* 背景图不重复*/
+	background-repeat: no-repeat;
+}
+
+
+/* 主页 */
+.homebimg{
+	background-image: url("../img/o.gif");
+	height: 690px;
+}
+
+/*登录*/
+.logintable{
+	wdith:200px;
+	height:280px;
+	color:white;
+	background-image:url("../img/heart.gif");
+}
+
+.loginbimg{
+	background-image: url("../img/yy.gif");
+	height:690px;
+}
+
+/* 注册 */
+.registtable{
+	color:white;
+	background-image: url("../img/heart.gif");
+	align-content:right;
+	text-align:center;
+	font-family:华文琥珀;
+	width: 290px;
+	height: 500px;
+	position:absloult;
+	bottom:0px;
+}
+
+.registbimg{
+	background-image: url("../img/bigwhite.gif");
+	height:690px;
+}
+/* 员工表 */
+.emplistbimg{
+		background-image: url("../img/car.gif");
+		height: 690px;
+	}
+/* 员工回收站列表 */
+.recyclelistbimg{
+		background-image: url("../img/car.gif");
+		height: 690px;
+	}
+/* 修改 */
+.modifybimg{
+	color:white;
+	background-image: url("../img/thanks.gif");
+	height: 690px;
+}
